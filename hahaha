@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Gotcha!</title>
+    <style>
+      body {
+        background-color: #111;
+        color: #fff;
+        font-family: 'Comic Sans MS', cursive, sans-serif;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        font-size: 3rem;
+        flex-direction: column;
+      }
+    </style>
+  </head>
+  <body>
+    🤡 April Fools, fool! 🤡<br />
+    <small style="font-size: 1rem;">Lo beneran scan ini QR-nya? 😭</small>
+  </body>
+</html>
